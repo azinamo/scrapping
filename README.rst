@@ -1,6 +1,7 @@
 Goutte, a simple PHP Web Scraper
 ================================
 https://www.kenyamoja.com/
+http://zrashwani.com/simple-web-spider-php-goutte/#.WD7Lt3V95hE
 Goutte is a screen scraping and web crawling library for PHP.
 
 Goutte provides a nice API to crawl websites and extract data from the HTML/XML
