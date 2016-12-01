@@ -1,0 +1,995 @@
+<pre>Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Wild Geese Lodge
+                    [description] => At Wild Geese Lodge, we offer you the best of both worlds - a tranquil escape from today’s fast paced world. Wild Geese Lodge is set within a private wildlife sanctuary offering thirty acres of indigenous garden and s
+                )
+
+            [1] => Array
+                (
+                    [text] => Wild Geese Lodge
+                    [description] => At Wild Geese Lodge, we offer you the best of both worlds - a tranquil escape from today’s fast paced world. Wild Geese Lodge is set within a private wildlife sanctuary offering thirty acres of indigenous garden and s
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Baines Bed and Breakfast
+                    [description] => Located 20km from the Harare International Airport, Baines Bed and Breakfast is close to the City centre, shopping centres, restaurants, Harare sports club and Royal Harare golf club.
+
+
+Baines Bed and Breakfast has 35 Styl
+                )
+
+            [1] => Array
+                (
+                    [text] => Baines Bed and Breakfast
+                    [description] => Located 20km from the Harare International Airport, Baines Bed and Breakfast is close to the City centre, shopping centres, restaurants, Harare sports club and Royal Harare golf club.
+
+
+Baines Bed and Breakfast has 35 Styl
+                )
+
+        )
+
+    [2] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Chengeta Safari Lodge
+                    [description] => In the Shona language of Zimbabwe, ‘Chengeta’ means to ‘take care of’ or to ‘look after’. It defines our approach to hospitality. Whether you are looking for a short safari holiday packed with an endless arr
+                )
+
+            [1] => Array
+                (
+                    [text] => Chengeta Safari Lodge
+                    [description] => In the Shona language of Zimbabwe, ‘Chengeta’ means to ‘take care of’ or to ‘look after’. It defines our approach to hospitality. Whether you are looking for a short safari holiday packed with an endless arr
+                )
+
+        )
+
+    [3] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Ruva Self Catering Apartment Newlands
+                    [description] => Ruva Self-Catering Apartment is located in the heart of Harare, Zimbabwe. It offers affordable, luxury apartments for short- or long-term stays. The apartments are situated in the suburb of Newlands, which is a 5-minute
+                )
+
+            [1] => Array
+                (
+                    [text] => Ruva Self Catering Apartment Newlands
+                    [description] => Ruva Self-Catering Apartment is located in the heart of Harare, Zimbabwe. It offers affordable, luxury apartments for short- or long-term stays. The apartments are situated in the suburb of Newlands, which is a 5-minute
+                )
+
+        )
+
+    [4] => Array
+        (
+            [0] => Array
+                (
+                    [text] => New Ambassador Hotel
+                    [description] => New Ambassador Hotel was built in 1955 this 72 all en-suite roomed landmark Harare hotel has been entertaining guests for decades and has fostered a reputation for hospitality and professionalism that has impressed natio
+                )
+
+            [1] => Array
+                (
+                    [text] => New Ambassador Hotel
+                    [description] => New Ambassador Hotel was built in 1955 this 72 all en-suite roomed landmark Harare hotel has been entertaining guests for decades and has fostered a reputation for hospitality and professionalism that has impressed natio
+                )
+
+        )
+
+    [5] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Forest Hills Resort
+                    [description] => Located in the breathtaking Vumba mountains, Forest Hills is a private hotel catering to the modern business traveller and holiday maker alike. It has conference facilities of up to 200 delegates and indoor banqueting fo
+                )
+
+            [1] => Array
+                (
+                    [text] => Forest Hills Resort
+                    [description] => Located in the breathtaking Vumba mountains, Forest Hills is a private hotel catering to the modern business traveller and holiday maker alike. It has conference facilities of up to 200 delegates and indoor banqueting fo
+                )
+
+        )
+
+    [6] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Highlands House
+                    [description] => The Highlands House is where sophistication meets modernisation with 8 magnificently decorated suites. This luxurious, private and secure boutique is within 5 minutes drive from Borrowdale village and Balantyne shops.A c
+                )
+
+            [1] => Array
+                (
+                    [text] => Highlands House
+                    [description] => The Highlands House is where sophistication meets modernisation with 8 magnificently decorated suites. This luxurious, private and secure boutique is within 5 minutes drive from Borrowdale village and Balantyne shops.A c
+                )
+
+        )
+
+    [7] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Ganda Lodge
+                    [description] => Built in 1992 the Lodge has matured in the hospitality and catering sectors to cater for a wide range of International, Regional and Local clients. Ganda Lodge is located within the beautiful teak woodlands of the Sikum
+                )
+
+            [1] => Array
+                (
+                    [text] => Ganda Lodge
+                    [description] => Built in 1992 the Lodge has matured in the hospitality and catering sectors to cater for a wide range of International, Regional and Local clients. Ganda Lodge is located within the beautiful teak woodlands of the Sikum
+                )
+
+        )
+
+    [8] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Nyuni Mountain Lodge
+                    [description] => Welcome to the stunning and breathtaking views of Nyuni Mountains and Lake Mutirikwi, where satisfaction is guaranteed. The Lodge is fully furnished and self-contained with chalets thatched in true African Style sitting
+                )
+
+            [1] => Array
+                (
+                    [text] => Nyuni Mountain Lodge
+                    [description] => Welcome to the stunning and breathtaking views of Nyuni Mountains and Lake Mutirikwi, where satisfaction is guaranteed. The Lodge is fully furnished and self-contained with chalets thatched in true African Style sitting
+                )
+
+        )
+
+    [9] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Aberfoyle Lodge
+                    [description] => Set amongst the tea estates of the Eastern Highlands Plantations in the Honde Valley and tropical Riparian Forest, this unique lodge has got to be Zimbabwe's best-kept travel secret. The lodge provides luxurious accommod
+                )
+
+            [1] => Array
+                (
+                    [text] => Aberfoyle Lodge
+                    [description] => Set amongst the tea estates of the Eastern Highlands Plantations in the Honde Valley and tropical Riparian Forest, this unique lodge has got to be Zimbabwe's best-kept travel secret. The lodge provides luxurious accommod
+                )
+
+        )
+
+    [10] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Chilo Gorge Safari Lodge
+                    [description] => Set high atop the cliffs ,looking down on the Save River in south eastern Zimbabwe is Chilo Gorge Safari lodge. Enjoying a magnificent location overlooking Gonarezhou National park, Zimbabwe's second largest national par
+                )
+
+            [1] => Array
+                (
+                    [text] => Chilo Gorge Safari Lodge
+                    [description] => Set high atop the cliffs ,looking down on the Save River in south eastern Zimbabwe is Chilo Gorge Safari lodge. Enjoying a magnificent location overlooking Gonarezhou National park, Zimbabwe's second largest national par
+                )
+
+        )
+
+    [11] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Stephen Margolis Resort
+                    [description] => Nestled away in a quiet corner of Zimbabwe’s capital Harare, Stephen Margolis Resort is one of the bustling city’s best kept secrets.Sitting on 60 acres of landscaped land with the river Nyarongo cutting though, the
+                )
+
+            [1] => Array
+                (
+                    [text] => Stephen Margolis Resort
+                    [description] => Nestled away in a quiet corner of Zimbabwe’s capital Harare, Stephen Margolis Resort is one of the bustling city’s best kept secrets.Sitting on 60 acres of landscaped land with the river Nyarongo cutting though, the
+                )
+
+        )
+
+    [12] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Norma Jeane's Lake View Resort
+                    [description] => Norma Jeane’s Lakeview Resort, overlooking the peaceful Lake Mutirikwi, offers pleasant and friendly accommodation near the Great Zimbabwe Monument, one of Zimbabwe’s most well-known tourist attractions.
+
+
+It has 8 hot
+                )
+
+            [1] => Array
+                (
+                    [text] => Norma Jeane's Lake View Resort
+                    [description] => Norma Jeane’s Lakeview Resort, overlooking the peaceful Lake Mutirikwi, offers pleasant and friendly accommodation near the Great Zimbabwe Monument, one of Zimbabwe’s most well-known tourist attractions.It has 8 hot
+                )
+
+        )
+
+    [13] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Cresta Lodge
+                    [description] => Carefully designed to provide the best value for money, Cresta Lodge excludes unnecessary services and facilities, and concentrates instead on providing top rate accommodation. We provide everything you'll ever want in a
+                )
+
+            [1] => Array
+                (
+                    [text] => Cresta Lodge
+                    [description] => Carefully designed to provide the best value for money, Cresta Lodge excludes unnecessary services and facilities, and concentrates instead on providing top rate accommodation. We provide everything you'll ever want in a
+                )
+
+        )
+
+    [14] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Ruva Self Catering Apartment Greendale
+                    [description] => Ruva 3 Bedroomed Self Catering Apartment is the perfect place to stay weather you are visiting Harare for business or leisure. You can stay for as little or as long as you like in our gorgeous serviced apartment.It is lo
+                )
+
+            [1] => Array
+                (
+                    [text] => Ruva Self Catering Apartment Greendale
+                    [description] => Ruva 3 Bedroomed Self Catering Apartment is the perfect place to stay weather you are visiting Harare for business or leisure. You can stay for as little or as long as you like in our gorgeous serviced apartment.It is lo
+                )
+
+        )
+
+    [15] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Elephant Hills Resort
+                    [description] => Elephant Hills Resort is one of three ISO-accredited hotels in Zimbabwe which ensures that guests will receive an unforgettable leisure experience. The Elephant Hills Hotel Zimbabwe contains 276 luxury rooms, 11 executiv
+                )
+
+            [1] => Array
+                (
+                    [text] => Elephant Hills Resort
+                    [description] => Elephant Hills Resort is one of three ISO-accredited hotels in Zimbabwe which ensures that guests will receive an unforgettable leisure experience. The Elephant Hills Hotel Zimbabwe contains 276 luxury rooms, 11 executiv
+                )
+
+        )
+
+    [16] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Inn on Rupurara
+                    [description] => Located 5 minutes from Juliasdale, three kilometres off the Juliasdale/Nyanga road and is an easy three hour, 265 kilometre, drive from Harare on good tar roads. Accommodation is in luxuriously furnished, beautifully con
+                )
+
+            [1] => Array
+                (
+                    [text] => Inn on Rupurara
+                    [description] => Located 5 minutes from Juliasdale, three kilometres off the Juliasdale/Nyanga road and is an easy three hour, 265 kilometre, drive from Harare on good tar roads. Accommodation is in luxuriously furnished, beautifully con
+                )
+
+        )
+
+    [17] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Masvingo Downtown Lodge
+                    [description] => Masvingo Downtown Lodge is a peaceful nest for peace loving people. It is ideal for both the business and leisure clientèle. Boasts of classic traditional dishes. Has a lavish garden and is conveniently located along Mu
+                )
+
+            [1] => Array
+                (
+                    [text] => Masvingo Downtown Lodge
+                    [description] => Masvingo Downtown Lodge is a peaceful nest for peace loving people. It is ideal for both the business and leisure clientèle. Boasts of classic traditional dishes. Has a lavish garden and is conveniently located along Mu
+                )
+
+        )
+
+    [18] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Singita Pamushana Lodge
+                    [description] => Singita Pamushana Lodge is nestled within the Malilangwe Wildlife Reserve in south-eastern Zimbabwe. It is home to giant baobabs as well as abundant bird and wildlife. Proudly elevated in a pristine environment, guests c
+                )
+
+            [1] => Array
+                (
+                    [text] => Singita Pamushana Lodge
+                    [description] => Singita Pamushana Lodge is nestled within the Malilangwe Wildlife Reserve in south-eastern Zimbabwe. It is home to giant baobabs as well as abundant bird and wildlife. Proudly elevated in a pristine environment, guests c
+                )
+
+        )
+
+    [19] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Lolo's Apartments
+                    [description] => A contemporary, relaxed and fully furnished apartment situated in the warm heart the Capital city of Zimbabwe, Harare. It has a very cosy lounge with a morden top of the line entertainment system, satellite television
+                )
+
+            [1] => Array
+                (
+                    [text] => Lolo's Apartments
+                    [description] => A contemporary, relaxed and fully furnished apartment situated in the warm heart the Capital city of Zimbabwe, Harare. It has a very cosy lounge with a morden top of the line entertainment system, satellite television
+                )
+
+        )
+
+    [20] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Chizarira Wilderness Lodge
+                    [description] => Chizarira Wilderness  Lodge is perched along a cliff edge. Built in stone and thatch, it blends into the bush with a cool and airy main lodge and 8 two-person en suite chalets, each with its balcony poised for flight in
+                )
+
+            [1] => Array
+                (
+                    [text] => Chizarira Wilderness Lodge
+                    [description] => Chizarira Wilderness  Lodge is perched along a cliff edge. Built in stone and thatch, it blends into the bush with a cool and airy main lodge and 8 two-person en suite chalets, each with its balcony poised for flight in
+                )
+
+        )
+
+    [21] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Musangano Lodge
+                    [description] => Tucked away on the lower slopes of a tree-covered hillside in the Eastern district of Zimbabwe lies a delightful little leisure resort known by the name of MUSANGANO - 'the place where people meet.' Whether you are looki
+                )
+
+            [1] => Array
+                (
+                    [text] => Musangano Lodge
+                    [description] => Tucked away on the lower slopes of a tree-covered hillside in the Eastern district of Zimbabwe lies a delightful little leisure resort known by the name of MUSANGANO - 'the place where people meet.' Whether you are looki
+                )
+
+        )
+
+    [22] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Lolo's 2Bedroom Apartment
+                    [description] => Affordable…. modern, cosy fully furnished two bedroomed apartment situated in a new and fresh gated community, close to Westgate shopping mall & 24hr security services. Accommodates 4 people, orthopaedic bedding, Inver
+                )
+
+            [1] => Array
+                (
+                    [text] => Lolo's 2Bedroom Apartment
+                    [description] => Affordable…. modern, cosy fully furnished two bedroomed apartment situated in a new and fresh gated community, close to Westgate shopping mall & 24hr security services. Accommodates 4 people, orthopaedic bedding, Inver
+                )
+
+        )
+
+    [23] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Ivory Lodge
+                    [description] => Ivory Lodge is located outside the Hwange National Park on a private concession of 6,000 squared acres.  This well appointed lodge is situated in the key home range of the Presidential Elephant herd, made famous by Alan
+                )
+
+            [1] => Array
+                (
+                    [text] => Ivory Lodge
+                    [description] => Ivory Lodge is located outside the Hwange National Park on a private concession of 6,000 squared acres.  This well appointed lodge is situated in the key home range of the Presidential Elephant herd, made famous by Alan
+                )
+
+        )
+
+    [24] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Bulawayo Club Hotel
+                    [description] => For travelers who want to bask in the glorious sights and sounds of The City of Kings, The Bulawayo Club is the perfect place. Guests can enjoy easy access to all that Bulawayo city has to offer. A well-kempt environment
+                )
+
+            [1] => Array
+                (
+                    [text] => Bulawayo Club Hotel
+                    [description] => For travelers who want to bask in the glorious sights and sounds of The City of Kings, The Bulawayo Club is the perfect place. Guests can enjoy easy access to all that Bulawayo city has to offer. A well-kempt environment
+                )
+
+        )
+
+    [25] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Kadoma Hotel and Conferencing
+                    [description] => Kadoma Hotel & Conference Centre - close to Harare (140km) and at the heart of Zimbabwe, this 147 roomed hotel is set in lush gardens and provides a tranquil “get away” for discerning visitors. Those in transit to Bu
+                )
+
+            [1] => Array
+                (
+                    [text] => Kadoma Hotel and Conferencing
+                    [description] => Kadoma Hotel & Conference Centre - close to Harare (140km) and at the heart of Zimbabwe, this 147 roomed hotel is set in lush gardens and provides a tranquil “get away” for discerning visitors. Those in transit to Bu
+                )
+
+        )
+
+    [26] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Simba Bed and Breakfast
+                    [description] => A homely getaway tucked in the quiet suburb of Westgate close to the well provisioned Westgate shopping centre.Simba Harare is a modern, Scandinavian-designed house situated in Harare. The plan for the house is based on
+                )
+
+            [1] => Array
+                (
+                    [text] => Simba Bed and Breakfast
+                    [description] => A homely getaway tucked in the quiet suburb of Westgate close to the well provisioned Westgate shopping centre.Simba Harare is a modern, Scandinavian-designed house situated in Harare. The plan for the house is based on
+                )
+
+        )
+
+    [27] => Array
+        (
+            [0] => Array
+                (
+                    [text] => The Pumpkin Hotel
+                    [description] => The Pumpkin Hotel is one of the best-equipped country hotels in Zimbabwe with unique blend of modern luxury and comfort and accessibility to rural life. Set in a plush 8-acre garden in rural Kotwa, The Pumpkin Hotel offe
+                )
+
+            [1] => Array
+                (
+                    [text] => The Pumpkin Hotel
+                    [description] => The Pumpkin Hotel is one of the best-equipped country hotels in Zimbabwe with unique blend of modern luxury and comfort and accessibility to rural life. Set in a plush 8-acre garden in rural Kotwa, The Pumpkin Hotel offe
+                )
+
+        )
+
+    [28] => Array
+        (
+            [0] => Array
+                (
+                    [text] => The Victoria Falls Hotel
+                    [description] => The Victoria Falls Hotel perfectly depicts the era of grand travel. The corridors of the hotel reflect the historical link to the era in which is was created with drawings, paintings and photographs of the major politica
+                )
+
+            [1] => Array
+                (
+                    [text] => The Victoria Falls Hotel
+                    [description] => The Victoria Falls Hotel perfectly depicts the era of grand travel. The corridors of the hotel reflect the historical link to the era in which is was created with drawings, paintings and photographs of the major politica
+                )
+
+        )
+
+    [29] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Rhodes Nyanga Hotel
+                    [description] => Built initially as a holiday cottage in the 1800’s by Cecil John Rhodes, and converted into a hotel in 1933, the Rhodes Nyanga Hotel is a 24 roomed historical homestead that offers a truly out of Africa experience. Set
+                )
+
+            [1] => Array
+                (
+                    [text] => Rhodes Nyanga Hotel
+                    [description] => Built initially as a holiday cottage in the 1800’s by Cecil John Rhodes, and converted into a hotel in 1933, the Rhodes Nyanga Hotel is a 24 roomed historical homestead that offers a truly out of Africa experience. Set
+                )
+
+        )
+
+    [30] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Freestate Houseboat
+                    [description] =>  The Freestate is one of the big boats which cruises the might Kariba Dam, built on a double decked with a Pontoon style.  The houseboat is a staggering 60ft long making more stable in the waters and it can reach a cr
+                )
+
+            [1] => Array
+                (
+                    [text] => Freestate Houseboat
+                    [description] =>  The Freestate is one of the big boats which cruises the might Kariba Dam, built on a double decked with a Pontoon style.  The houseboat is a staggering 60ft long making more stable in the waters and it can reach a cr
+                )
+
+        )
+
+    [31] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Ridgeway House
+                    [description] => Located just on the outskirts of the "sunshine city" of Harare , Ridgeway House sits on a quiet corner in the suburbs. Placed perfectly amongst beautiful old Msasa trees, this colonial style guest lodge is a peaceful esc
+                )
+
+            [1] => Array
+                (
+                    [text] => Ridgeway House
+                    [description] => Located just on the outskirts of the "sunshine city" of Harare , Ridgeway House sits on a quiet corner in the suburbs. Placed perfectly amongst beautiful old Msasa trees, this colonial style guest lodge is a peaceful esc
+                )
+
+        )
+
+    [32] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Matobo Hills Lodge
+                    [description] => 
+                )
+
+            [1] => Array
+                (
+                    [text] => Matobo Hills Lodge
+                    [description] => 
+                )
+
+        )
+
+    [33] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Pakanaka Lodge
+                    [description] => A modern and stylishly furnished private and secure place for your comfortable living. It is within easy access to business and shopping areas. The lodge offers travellers the opportunity to relax and unwind in safety a
+                )
+
+            [1] => Array
+                (
+                    [text] => Pakanaka Lodge
+                    [description] => A modern and stylishly furnished private and secure place for your comfortable living. It is within easy access to business and shopping areas. The lodge offers travellers the opportunity to relax and unwind in safety a
+                )
+
+        )
+
+    [34] => Array
+        (
+            [0] => Array
+                (
+                    [text] => High Mount Lodge
+                    [description] => Nestled in the quiet suburbs of High Mount in Bulawayo, only 5 minutes drive from Bulawayo CBD, the lodge stands as the crown of Bulawayo’s accommodation profile. On board is a swimming pool, beautiful orchard, tennis
+                )
+
+            [1] => Array
+                (
+                    [text] => High Mount Lodge
+                    [description] => Nestled in the quiet suburbs of High Mount in Bulawayo, only 5 minutes drive from Bulawayo CBD, the lodge stands as the crown of Bulawayo’s accommodation profile. On board is a swimming pool, beautiful orchard, tennis
+                )
+
+        )
+
+    [35] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Pamuzinda Safari Lodge
+                    [description] => Just 1 hour away from the capital, Harare, the Pamuzinda Safari Lodge is an ideal spot for a romantic weekend getaway, your perfect wedding or conference. Located on the banks of the Serui River, our classy lodge and fr
+                )
+
+            [1] => Array
+                (
+                    [text] => Pamuzinda Safari Lodge
+                    [description] => Just 1 hour away from the capital, Harare, the Pamuzinda Safari Lodge is an ideal spot for a romantic weekend getaway, your perfect wedding or conference. Located on the banks of the Serui River, our classy lodge and fr
+                )
+
+        )
+
+    [36] => Array
+        (
+            [0] => Array
+                (
+                    [text] => CUT Hotel
+                    [description] => Located only 116km north west from Zimbabwe’s capital city Harare using the Harare–Chirundu highway the Chinhoyi University of Technology Hotel affectionately known as the CUT Hotel is a unique 2 star establishment.
+                )
+
+            [1] => Array
+                (
+                    [text] => CUT Hotel
+                    [description] => Located only 116km north west from Zimbabwe’s capital city Harare using the Harare–Chirundu highway the Chinhoyi University of Technology Hotel affectionately known as the CUT Hotel is a unique 2 star establishment.
+                )
+
+        )
+
+    [37] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Dzimbabwe Lodges
+                    [description] => Dzimbabwe lodge is located in the town of Kariba, Zimbabwe. Kariba is in the Mashonaland West Province close to the Kariba Dam at the northwestern end of Lake Kariba, near the Zambian boarder.Kariba is 365km from Harare
+                )
+
+            [1] => Array
+                (
+                    [text] => Dzimbabwe Lodges
+                    [description] => Dzimbabwe lodge is located in the town of Kariba, Zimbabwe. Kariba is in the Mashonaland West Province close to the Kariba Dam at the northwestern end of Lake Kariba, near the Zambian boarder.Kariba is 365km from Harare
+                )
+
+        )
+
+    [38] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Kia Ora
+                    [description] => This beautiful and newly constructed 4 Star, Ethiopian themed Guest lodge was built in early 2012. Located in the tranquil environment of Harare Highlands' suburb, just 15 minutes from the airport and 5 minutes from the
+                )
+
+            [1] => Array
+                (
+                    [text] => Kia Ora
+                    [description] => This beautiful and newly constructed 4 Star, Ethiopian themed Guest lodge was built in early 2012. Located in the tranquil environment of Harare Highlands' suburb, just 15 minutes from the airport and 5 minutes from the
+                )
+
+        )
+
+    [39] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Leopard Rock Golf Resort and Casino
+                    [description] => The enchanting Leopard Rock Golf Resort and Casino deserves its reputation as one ofthe most beautiful and best kept secrets in Southern Africa. Tranquil in the shadow of the signature Chinyakwaremba "hill of tired legs"
+                )
+
+            [1] => Array
+                (
+                    [text] => Leopard Rock Golf Resort and Casino
+                    [description] => The enchanting Leopard Rock Golf Resort and Casino deserves its reputation as one ofthe most beautiful and best kept secrets in Southern Africa. Tranquil in the shadow of the signature Chinyakwaremba "hill of tired legs"
+                )
+
+        )
+
+    [40] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Cresta Jameson Hotel
+                    [description] => The Cresta Jameson Hotel, luxurious enough for you to forget you’re there on business, in the heart of Harare’s cosmopolitan centre lies the hotel. The business centre, conference facilities and Wifi connectivity wil
+                )
+
+            [1] => Array
+                (
+                    [text] => Cresta Jameson Hotel
+                    [description] => The Cresta Jameson Hotel, luxurious enough for you to forget you’re there on business, in the heart of Harare’s cosmopolitan centre lies the hotel. The business centre, conference facilities and Wifi connectivity wil
+                )
+
+        )
+
+    [41] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Jafuta Lodge
+                    [description] => Rustic, peaceful and quiet accommodation, the lodge offers eight luxurious thatched pine cabins with full toilet and bath en-suite facilities. Each of the cabins is decorated in ethnic designs and has its own private bal
+                )
+
+            [1] => Array
+                (
+                    [text] => Jafuta Lodge
+                    [description] => Rustic, peaceful and quiet accommodation, the lodge offers eight luxurious thatched pine cabins with full toilet and bath en-suite facilities. Each of the cabins is decorated in ethnic designs and has its own private bal
+                )
+
+        )
+
+    [42] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Regency Hotel Flamboyant
+                    [description] => Regency Hotel flamboyant is a hotel in Masvingo close to Great Zimbabwe Ruins. The Hotel serves as the perfect base for a holiday in Masvingo as it is within easy reach of Masvingo's main attractions and city hotspots, m
+                )
+
+            [1] => Array
+                (
+                    [text] => Regency Hotel Flamboyant
+                    [description] => Regency Hotel flamboyant is a hotel in Masvingo close to Great Zimbabwe Ruins. The Hotel serves as the perfect base for a holiday in Masvingo as it is within easy reach of Masvingo's main attractions and city hotspots, m
+                )
+
+        )
+
+    [43] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Golden Peacock Villa Hotel
+                    [description] => Golden Peacock is an international brand with its origins set in Asia. The hotel is located near Mutare Teachers college and it is built on a 7438 square metre plot allocated to Anjin Investment diamond mining by the cit
+                )
+
+            [1] => Array
+                (
+                    [text] => Golden Peacock Villa Hotel
+                    [description] => Golden Peacock is an international brand with its origins set in Asia. The hotel is located near Mutare Teachers college and it is built on a 7438 square metre plot allocated to Anjin Investment diamond mining by the cit
+                )
+
+        )
+
+    [44] => Array
+        (
+            [0] => Array
+                (
+                    [text] => The Rainbow Towers
+                    [description] => A symbol of glamour, synonymous with success and prosperity, The Rainbow Towers Hotel and  Conference Centre is the ultimate business hotel in Harare. The hotel offers unique, refreshing and successful experiences to th
+                )
+
+            [1] => Array
+                (
+                    [text] => The Rainbow Towers
+                    [description] => A symbol of glamour, synonymous with success and prosperity, The Rainbow Towers Hotel and  Conference Centre is the ultimate business hotel in Harare. The hotel offers unique, refreshing and successful experiences to th
+                )
+
+        )
+
+    [45] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Sandalwood Lodge
+                    [description] => Sandalwood Lodge is situated in the peaceful, up-market suburb of Mount Pleasant in Harare with easy access to the entire city. 
+
+
+The well-appointed, individually decorated en-suite units have separate entries from the p
+                )
+
+            [1] => Array
+                (
+                    [text] => Sandalwood Lodge
+                    [description] => Sandalwood Lodge is situated in the peaceful, up-market suburb of Mount Pleasant in Harare with easy access to the entire city. 
+
+
+The well-appointed, individually decorated en-suite units have separate entries from the p
+                )
+
+        )
+
+    [46] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Bowood Lodge
+                    [description] => Set on two acres in the peaceful posh suburb of Mount Pleasant, North of Harare, Bowood Lodge offers tranquil and superior Bed & Breakfast accommodation to business and tourist visitors alike. It is the perfect spot to
+                )
+
+            [1] => Array
+                (
+                    [text] => Bowood Lodge
+                    [description] => Set on two acres in the peaceful posh suburb of Mount Pleasant, North of Harare, Bowood Lodge offers tranquil and superior Bed & Breakfast accommodation to business and tourist visitors alike. It is the perfect spot to
+                )
+
+        )
+
+    [47] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Brooke Country Manor
+                    [description] => Borrowdale Country Manor is the perfect location for visitors and residents seeking comfortable, tranquil, affordable and secure accommodation or meeting location in Harare. Spread over eight hectares on the outskirts of
+                )
+
+            [1] => Array
+                (
+                    [text] => Brooke Country Manor
+                    [description] => Borrowdale Country Manor is the perfect location for visitors and residents seeking comfortable, tranquil, affordable and secure accommodation or meeting location in Harare. Spread over eight hectares on the outskirts of
+                )
+
+        )
+
+    [48] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Guest Paradise Lodge
+                    [description] => Guest Pardise Lodge, a hub for peace and serenity. One of the best mid-range lodges situated in a low density suburb in Victoria Falls. The Mighty Zambezi are just 10 minutes away from the lodge which has a well manicu
+                )
+
+            [1] => Array
+                (
+                    [text] => Guest Paradise Lodge
+                    [description] => Guest Pardise Lodge, a hub for peace and serenity. One of the best mid-range lodges situated in a low density suburb in Victoria Falls. The Mighty Zambezi are just 10 minutes away from the lodge which has a well manicu
+                )
+
+        )
+
+    [49] => Array
+        (
+            [0] => Array
+                (
+                    [text] => A Zambezi River Lodge
+                    [description] => Located in Victoria Falls, Zimbabwe 25km from the airport, nestling on the banks of the mighty Zambezi river within the periphery of the Zambezi National Park. The imaginative architecture with its sweeping curve of gras
+                )
+
+            [1] => Array
+                (
+                    [text] => A Zambezi River Lodge
+                    [description] => Located in Victoria Falls, Zimbabwe 25km from the airport, nestling on the banks of the mighty Zambezi river within the periphery of the Zambezi National Park. The imaginative architecture with its sweeping curve of gras
+                )
+
+        )
+
+    [50] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Rainbow Beitbridge Hotel
+                    [description] => Rainbow Hotel Beitbridge is the perfect destination if you are on business and need a place that offers you serene surroundings and world class facilities.It boasts of a fully equipped,a casino and conference facilities
+                )
+
+            [1] => Array
+                (
+                    [text] => Rainbow Beitbridge Hotel
+                    [description] => Rainbow Hotel Beitbridge is the perfect destination if you are on business and need a place that offers you serene surroundings and world class facilities.It boasts of a fully equipped,a casino and conference facilities
+                )
+
+        )
+
+    [51] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Bumi Hills Safari Lodge
+                    [description] => Bumi is a famous and beloved Lake Kariba accommodation brand and has been since first opening in 1975. The panoramic vista from the pool, bar, dining deck, spa and all premium rooms is simply astonishing and would be dif
+                )
+
+            [1] => Array
+                (
+                    [text] => Bumi Hills Safari Lodge
+                    [description] => Bumi is a famous and beloved Lake Kariba accommodation brand and has been since first opening in 1975. The panoramic vista from the pool, bar, dining deck, spa and all premium rooms is simply astonishing and would be dif
+                )
+
+        )
+
+    [52] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Antelope Park
+                    [description] => Known as one of Southern Africa’s Most Intriguing Destinations, and winners of the "Environmental Award" at the 2013 AZTA Awards ceremony, Antelope Park is home to the world famous African Lion and Environmental Resear
+                )
+
+            [1] => Array
+                (
+                    [text] => Antelope Park
+                    [description] => Known as one of Southern Africa’s Most Intriguing Destinations, and winners of the "Environmental Award" at the 2013 AZTA Awards ceremony, Antelope Park is home to the world famous African Lion and Environmental Resear
+                )
+
+        )
+
+    [53] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Sable Sands Lodge
+                    [description] => On the edge of the famous Hwange National Park, on a private concession that boasts stunning views of the dried riverbed named the ‘Dete Vlei’, stands a rustic eco lodge within the pristine Teak and Mopani forest cal
+                )
+
+            [1] => Array
+                (
+                    [text] => Sable Sands Lodge
+                    [description] => On the edge of the famous Hwange National Park, on a private concession that boasts stunning views of the dried riverbed named the ‘Dete Vlei’, stands a rustic eco lodge within the pristine Teak and Mopani forest cal
+                )
+
+        )
+
+    [54] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Great Zimbabwe Hotel
+                    [description] => Situated within walking distance of this famous Zimbabwean monument, the 56-roomed Great Zimbabwe Hotel with its Old World restaurant provides the perfect base from which to explore the monument. All rooms are equipped w
+                )
+
+            [1] => Array
+                (
+                    [text] => Great Zimbabwe Hotel
+                    [description] => Situated within walking distance of this famous Zimbabwean monument, the 56-roomed Great Zimbabwe Hotel with its Old World restaurant provides the perfect base from which to explore the monument. All rooms are equipped w
+                )
+
+        )
+
+    [55] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Khulu Ivory
+                    [description] => Khulu Ivory “Grandfather of Ivory” is located on a private concession of 6,000 acres. The beauty of this camp is that it combines luxurious and private accommodation with old world hospitality. Khulu overlooks an a
+                )
+
+            [1] => Array
+                (
+                    [text] => Khulu Ivory
+                    [description] => Khulu Ivory “Grandfather of Ivory” is located on a private concession of 6,000 acres. The beauty of this camp is that it combines luxurious and private accommodation with old world hospitality. Khulu overlooks an a
+                )
+
+        )
+
+    [56] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Ruva Self Catering Apartment Chaplin Road
+                    [description] => Located in the heart of Greendale just walking distance from the famous Food lovers Markert. This luxurious, spacious and secure 3 bedroom apartment is ideal for families and business people alike . There one can indulg
+                )
+
+            [1] => Array
+                (
+                    [text] => Ruva Self Catering Apartment Chaplin Road
+                    [description] => Located in the heart of Greendale just walking distance from the famous Food lovers Markert. This luxurious, spacious and secure 3 bedroom apartment is ideal for families and business people alike . There one can indulg
+                )
+
+        )
+
+    [57] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Bulawayo Rainbow Hotel
+                    [description] => An unrivalled welcome awaits you at this delightful hotel situated in Zimbabwe's second largest city Bulawayo popularly known as the "City of Kings". It is an ideal location from which both business and leisure visitors
+                )
+
+            [1] => Array
+                (
+                    [text] => Bulawayo Rainbow Hotel
+                    [description] => An unrivalled welcome awaits you at this delightful hotel situated in Zimbabwe's second largest city Bulawayo popularly known as the "City of Kings". It is an ideal location from which both business and leisure visitors
+                )
+
+        )
+
+    [58] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Bronte Hotel
+                    [description] => Situated in a delightfully quiet setting of colourful gardens surrounded by Jacaranda trees - only 10 minutes walk from the city centre. The hotel offers a swimming pool and garden patio, and is less than 5 minutes walk
+                )
+
+            [1] => Array
+                (
+                    [text] => Bronte Hotel
+                    [description] => Situated in a delightfully quiet setting of colourful gardens surrounded by Jacaranda trees - only 10 minutes walk from the city centre. The hotel offers a swimming pool and garden patio, and is less than 5 minutes walk
+                )
+
+        )
+
+    [59] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Shumba Guest Lodge
+                    [description] => Shumba provides a perfect getaway for friends or families looking for a comfortable self-catering option in the bush. With the possibility of taking part in any of the activities at Shumba’s two sister safari lodges an
+                )
+
+            [1] => Array
+                (
+                    [text] => Shumba Guest Lodge
+                    [description] => Shumba provides a perfect getaway for friends or families looking for a comfortable self-catering option in the bush. With the possibility of taking part in any of the activities at Shumba’s two sister safari lodges an
+                )
+
+        )
+
+    [60] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Cresta Oasis Hotel
+                    [description] => Situated only 2 blocks from the city center, a 10 minute walk from the Harare Gardens and 20 minutes drive from Harare international airport. The hotel facilities include a restaurant/bar, banqueting facilities, and a
+                )
+
+            [1] => Array
+                (
+                    [text] => Cresta Oasis Hotel
+                    [description] => Situated only 2 blocks from the city center, a 10 minute walk from the Harare Gardens and 20 minutes drive from Harare international airport. The hotel facilities include a restaurant/bar, banqueting facilities, and a
+                )
+
+        )
+
+)
+</pre>There are 122 h3 counts

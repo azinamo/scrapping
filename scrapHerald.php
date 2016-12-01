@@ -2,26 +2,42 @@
 include_once 'vendor/autoload.php';
 use Goutte\Client;
 use GuzzleHttp\Client as GuzzleClient;
+use Symfony\Component\CssSelector\CssSelectorConverter;
 
 $client = new Goutte\Client();
 
 $crawler = $client->request('GET', 'http://www.herald.co.zw/');
 
-$h4_count = $crawler->filter('h4')->count();
+$h3_count = $crawler->filter('section')->count();
 
-$h4_contents = array();
+$contents = array();
 
-if ($h4_count) {
-    $crawler->filter('h4')->each(function(Symfony\Component\DomCrawler\Crawler $node, $i) use($h4_contents){
-        $h4_contents[$i]['title'] = $node->filter('a')->text();
-        $h4_contents[$i]['link'] = $node->filter('a')->attr('href');
-        var_dump($h4_contents);
+if ($h3_count) {
+    $crawler->filter("section")->each(function(Symfony\Component\DomCrawler\Crawler $node, $x){
+        $class = $node->attr('class');
+        if ($class == 'feat-cat') {
+            $cat = null;
+            $node->filter("header")->each(function(Symfony\Component\DomCrawler\Crawler $header, $i) use(&$cat, &$contents){
+                $catHeader = $header->attr('class');
+                if ($i == 0) $cat = $catHeader;
+                if ($catHeader == 'cat-header') {
+                    $contents[$cat]['title'] = $header->filter('a')->text();
+                    $contents[$cat]['articles'] = array();
+                } else {
+                    $contents[$cat]['articles'][$i] = $header->filter('a')->text();
+                }
+                //        $h3_contents[$i]['title'] = $node->filter('a')->text();
+                //        $h3_contents[$i]['link'] = $node->filter('a')->attr('href');
+
+            });
+            print "<pre>";
+            print_r($contents);
+            print "</pre>";
+        }
     });
 }
-print "<pre>";
-  print_r($h4_contents);
-print "</pre>";
-echo "There are ".$h4_count." h4 counts";
+
+echo "There are ".$h3_count." h3 counts";
 //$aTags = $crawler->links();
 
 exit();

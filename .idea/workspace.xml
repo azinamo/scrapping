@@ -4,7 +4,7 @@
     <list default="true" id="b70e83e5-d6a7-4af9-a320-397f0a6ce645" name="Default" comment="" />
     <ignored path="Goutte-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/scrapHerald.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480517026122" ignored="false" />
+    <file path="/scrapHerald.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480589577611" ignored="false" />
     <file path="$PROJECT_DIR$/../vodafone.co.cm/wp-content/themes/vodafone/functions.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480516350992" ignored="false" />
     <file path="/functions.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480515728397" ignored="false" />
     <file path="$PROJECT_DIR$/../vodafone.co.cm/wp-content/themes/vodafone/applicant-form.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480513957550" ignored="false" />
@@ -13,6 +13,12 @@
     <file path="$PROJECT_DIR$/../vodafone.co.cm/wp-content/themes/vodafone/custom-post-types.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480514700380" ignored="false" />
     <file path="$PROJECT_DIR$/../vodafone.co.cm/wp-content/themes/vodafone/archive-news-events.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480515102291" ignored="false" />
     <file path="/archive-news-events.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480515098677" ignored="false" />
+    <file path="/Dummy.txt" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480597870046" ignored="false" />
+    <file path="$USER_HOME$/www/symfony/lib/model/doctrine/UserAccount.class.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480588771286" ignored="false" />
+    <file path="/scrapNewsday.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480595718963" ignored="false" />
+    <file path="/scrapDailyNews.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480600202360" ignored="false" />
+    <file path="/scrapFambai.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480602715058" ignored="false" />
+    <file path="$PROJECT_DIR$/../vodafone.co.zm/wp-content/plugins/store-locator/public/partials/asl-public-display.php" changelist="b70e83e5-d6a7-4af9-a320-397f0a6ce645" time="1480601385995" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +41,7 @@
       <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="9" selection-start="240" selection-end="240" vertical-scroll-proportion="-5.0">
+            <state line="8" column="9" selection-start="240" selection-end="240" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -44,18 +50,25 @@
       <file leaf-file-name="scrapHerald.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapHerald.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="106" selection-start="380" selection-end="392" vertical-scroll-proportion="-8.75">
-              <folding>
-                <element signature="e#42#60#0" expanded="true" />
-              </folding>
+            <state line="8" column="53" selection-start="236" selection-end="242" vertical-scroll-proportion="-3.75">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.rst" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.rst">
+      <file leaf-file-name="scrapFambai.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapFambai.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="69" selection-start="226" selection-end="226" vertical-scroll-proportion="0.06888634">
+            <state line="22" column="53" selection-start="1032" selection-end="1032" vertical-scroll-proportion="-12.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="results.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/results.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="50" selection-start="175" selection-end="180" vertical-scroll-proportion="0.12650603">
               <folding />
             </state>
           </provider>
@@ -64,7 +77,7 @@
       <file leaf-file-name="Client.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Goutte/Client.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="16" selection-start="247" selection-end="253" vertical-scroll-proportion="-2.5">
+            <state line="11" column="16" selection-start="247" selection-end="253" vertical-scroll-proportion="-0.625">
               <folding />
             </state>
           </provider>
@@ -80,8 +93,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/scrapHerald.php" />
         <option value="$PROJECT_DIR$/README.rst" />
+        <option value="$PROJECT_DIR$/scrapHerald.php" />
+        <option value="$PROJECT_DIR$/scrapNewsday.php" />
+        <option value="$PROJECT_DIR$/scrapDailyNews.php" />
+        <option value="$PROJECT_DIR$/scrapFambai.php" />
+        <option value="$PROJECT_DIR$/results.txt" />
       </list>
     </option>
   </component>
@@ -150,24 +167,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Goutte-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Goutte-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Goutte" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -175,6 +174,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vodafone.co.zm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -192,23 +197,23 @@
     <frame x="65" y="-4" width="1615" height="1054" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26134184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -272,6 +277,25 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scrapHerald.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="106" selection-start="380" selection-end="392" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Goutte/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="16" selection-start="247" selection-end="253" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="1" selection-start="1317" selection-end="1317" vertical-scroll-proportion="-5.88902">
@@ -279,46 +303,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Goutte/Client.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="247" selection-end="253" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="9" selection-start="240" selection-end="240" vertical-scroll-proportion="-5.0">
+        <state line="8" column="9" selection-start="240" selection-end="240" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="61" selection-start="114" selection-end="168" vertical-scroll-proportion="0.10625738">
-          <folding />
-        </state>
+        <state line="6" column="61" selection-start="114" selection-end="168" vertical-scroll-proportion="0.10625738" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Goutte/Tests/ClientTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="52" selection-start="704" selection-end="730" vertical-scroll-proportion="-1.3459268">
+        <state line="28" column="52" selection-start="704" selection-end="730" vertical-scroll-proportion="-1.3459268" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="20" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="304" column="12" selection-start="9313" selection-end="9313" vertical-scroll-proportion="0.34238487" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/dom-crawler/Crawler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="366" column="30" selection-start="10615" selection-end="10615" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Goutte/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="16" selection-start="247" selection-end="253" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapDailyNews.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="0" selection-start="2211" selection-end="2307" vertical-scroll-proportion="0.8051948">
+          <folding>
+            <marker date="1480600316153" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapNewsday.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="1170" selection-end="1236" vertical-scroll-proportion="0.54899645">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapHerald.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="106" selection-start="380" selection-end="392" vertical-scroll-proportion="-8.75">
-          <folding>
-            <element signature="e#42#60#0" expanded="true" />
-          </folding>
+        <state line="8" column="53" selection-start="236" selection-end="242" vertical-scroll-proportion="-3.75">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.rst">
+    <entry file="file://$PROJECT_DIR$/scrapFambai.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="69" selection-start="226" selection-end="226" vertical-scroll-proportion="0.06888634">
+        <state line="22" column="53" selection-start="1032" selection-end="1032" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="50" selection-start="175" selection-end="180" vertical-scroll-proportion="0.12650603">
           <folding />
         </state>
       </provider>
